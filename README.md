@@ -42,7 +42,7 @@ machine, so the Windows installation might not be very happy about it.
 
 ## Connecting
 
-To connect to the server over VNC, connect using a VMC server to the IP address
+To connect to the server over VNC, connect using a VNC server to the IP address
 of the computer the VMs are running on, with display/port equivalent to the
 version of Internet Explorer you want to use. So, if the server is running on
 `192.168.0.200` and you want to use Internet Explorer 8, you would connect to
